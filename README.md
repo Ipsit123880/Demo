@@ -1,2 +1,2 @@
 # Demo
-This is a Demo for Git and Github repo.
+Simon game using html and css
