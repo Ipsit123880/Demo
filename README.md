@@ -1,2 +1,3 @@
 # Demo
-Simon game using html and css
+Simon game using html and css and javascript
+
